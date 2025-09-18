@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div className="app-container">
-      <h1>Air Share ✨</h1>
+      <h1>Text Share ✨</h1>
       <p className="subtitle">Instantly share text & notes between devices</p>
 
       <ShareForm setShareId={setShareId} />
